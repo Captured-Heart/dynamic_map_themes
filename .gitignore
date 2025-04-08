@@ -49,3 +49,4 @@ app.*.map.json
 macos/Runner/Info.plist
 ios/Runner/Info.plist
 .fvmrc
+.env
