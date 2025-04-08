@@ -1,0 +1,29 @@
+name: dynamic_map_themes
+description: "Showcase of dynamic map themes using flutter_riverpod and google_maps_flutter"
+publish_to: "none"
+version: 0.1.0
+
+environment:
+  sdk: ^3.5.3
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_expandable_fab: ^2.4.1
+  flutter_riverpod: ^2.6.1
+  geolocator: ^13.0.4
+  google_maps_flutter: ^2.12.0
+  rename: ^3.0.2
+  shared_preferences: ^2.5.3
+
+dev_dependencies:
+  flutter_lints: ^4.0.0
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/
+    - assets/json/
