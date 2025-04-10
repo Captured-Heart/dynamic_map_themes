@@ -14,6 +14,10 @@
 
 ## AN INTRO VIDEO OF THE APP
 
+
+https://github.com/user-attachments/assets/0ef9e063-4ae7-470b-b2a9-b695be3b3523
+
+
 # Demo (What to test)
 
 <div align="left">
