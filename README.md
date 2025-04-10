@@ -1,7 +1,7 @@
 # Dynamic Google Map Themes with Riverpod
 
 <div align="center">
-   <img src="./assets/logo.png" width="250" height="200" color="0xFF2676FC"/>
+   <img src="./assets/logo.png" width="250" height="250" color="0xFF2676FC"/>
 
 <strong> This project demonstrates how to implement dynamic Google Map theming in a Flutter app using Riverpod for state management. Users can seamlessly switch between different map styles (e.g., light, dark, retro) based on app theme or user preference. </strong>
 
