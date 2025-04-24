@@ -31,6 +31,8 @@ https://github.com/user-attachments/assets/0ef9e063-4ae7-470b-b2a9-b695be3b3523
 
 ## Getting Started
 
+ Read up on the full configuration of Google Maps and the apikey: https://medium.com/@nkpozimarcelkelechi/enhance-your-google-maps-with-dynamic-themes-using-riverpod-e3d509ca1e1a
+ 
 After cloning,
 
 ### FVM setup
